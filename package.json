@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.14.0",
+    "jotai": "^3.0.2",
+    "react-redux": "^9.3.1",
+    "zustand": "^5.1.0"
+  }
+}
